@@ -1,0 +1,10 @@
+C:\Users\EROS GSM\Documents\Samsung-EDL-FRP-master\Samsung-EDL-FRP-master\Samsung EDL FRP\obj\Debug\Samsung EDL FRP.csproj.AssemblyReference.cache
+C:\Users\EROS GSM\Documents\Samsung-EDL-FRP-master\Samsung-EDL-FRP-master\Samsung EDL FRP\bin\Debug\Samsung EDL FRP.exe.config
+C:\Users\EROS GSM\Documents\Samsung-EDL-FRP-master\Samsung-EDL-FRP-master\Samsung EDL FRP\bin\Debug\Samsung EDL FRP.exe
+C:\Users\EROS GSM\Documents\Samsung-EDL-FRP-master\Samsung-EDL-FRP-master\Samsung EDL FRP\bin\Debug\Samsung EDL FRP.pdb
+C:\Users\EROS GSM\Documents\Samsung-EDL-FRP-master\Samsung-EDL-FRP-master\Samsung EDL FRP\obj\Debug\Samsung_EDL_FRP.Properties.Resources.resources
+C:\Users\EROS GSM\Documents\Samsung-EDL-FRP-master\Samsung-EDL-FRP-master\Samsung EDL FRP\obj\Debug\Samsung EDL FRP.csproj.GenerateResource.cache
+C:\Users\EROS GSM\Documents\Samsung-EDL-FRP-master\Samsung-EDL-FRP-master\Samsung EDL FRP\obj\Debug\Samsung EDL FRP.csproj.CoreCompileInputs.cache
+C:\Users\EROS GSM\Documents\Samsung-EDL-FRP-master\Samsung-EDL-FRP-master\Samsung EDL FRP\obj\Debug\Samsung EDL FRP.exe
+C:\Users\EROS GSM\Documents\Samsung-EDL-FRP-master\Samsung-EDL-FRP-master\Samsung EDL FRP\obj\Debug\Samsung EDL FRP.pdb
+C:\Users\EROS GSM\Documents\Samsung-EDL-FRP-master\Samsung-EDL-FRP-master\Samsung EDL FRP\obj\Debug\Samsung EDL FRP.exe.config
